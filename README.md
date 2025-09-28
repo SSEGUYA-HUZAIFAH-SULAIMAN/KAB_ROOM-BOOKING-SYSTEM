@@ -1,0 +1,1 @@
+This is a system that will mainly help co-ordinators at Campus to easily book a room even if they are not yet at Campus physically, which will help to decrease the burden of co-ordinators looking and fighting for rooms to have lectures.
